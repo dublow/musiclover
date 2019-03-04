@@ -1,0 +1,14 @@
+source https://www.nuget.org/api/v2
+
+nuget FSharp.Core
+nuget Microsoft.NET.Test.Sdk 15.9.0
+nuget xunit 2.4.0
+nuget xunit.runner.console
+nuget xunit.runner.visualstudio 2.4.0
+// [ FAKE GROUP ]
+group Build
+    storage none
+    source https://api.nuget.org/v3/index.json
+    nuget Fake.DotNet.Cli
+    nuget Fake.IO.FileSystem
+    nuget Fake.Core.Target
