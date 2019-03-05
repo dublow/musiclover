@@ -1,0 +1,205 @@
+﻿{
+  "tracks": [
+    {
+      "id": "ad90626851462d799ab988378a7a8dea",
+      "type": "general",
+      "artist": "Ahmad Jamal",
+      "title": "Swahililand",
+      "duration": "243",
+      "timetoplay": 77,
+      "pictures": [
+        "https://www.djamradio.com/ressources/images/tracks/backgrounds/bg-d41d8cd98f00b204e9800998ecf8427e_0.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/1/d41d8cd98f00b204e9800998ecf8427e_1.jpg"
+      ],
+      "spotify": "",
+      "deezer": "",
+      "edito": "",
+      "trackpoints": 215,
+      "artistpoints": 0,
+      "votable": "1"
+    },
+    {
+      "id": "2eb60736ffc6ce516d8fe34ce5a18e55",
+      "type": "general",
+      "artist": "Manu Chao",
+      "title": "Desaparecido",
+      "duration": "226",
+      "pictures": [
+        "https://www.djamradio.com/ressources/images/tracks/backgrounds/bg-9de78a8d88c7364a70991667bab9b78e_0.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/6/9de78a8d88c7364a70991667bab9b78e_6.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/7/9de78a8d88c7364a70991667bab9b78e_7.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/9/9de78a8d88c7364a70991667bab9b78e_9.jpg"
+      ],
+      "spotify": {
+        "id": "spotify:track:5Hc7O2dX51NI4YcHPuoOpw",
+        "url": "https://open.spotify.com/track/5Hc7O2dX51NI4YcHPuoOpw"
+      },
+      "deezer": {
+        "id": "71590746",
+        "url": "http://www.deezer.com/track/71590746?app_id=126395"
+      },
+      "edito": "",
+      "trackpoints": 1060,
+      "artistpoints": 0,
+      "votable": "1"
+    },
+    {
+      "id": "c545ffb5c1edfbd320107ef6172f1400",
+      "type": "general",
+      "artist": "Black Star",
+      "title": "Brown Skin Lady",
+      "duration": "338",
+      "trackpoints": 416,
+      "artistpoints": 0,
+      "votable": "1",
+      "edito": ""
+    },
+    {
+      "id": "d1faf596290b2080dd5781240c1623b0",
+      "type": "general",
+      "artist": "The Kinks",
+      "title": "Holloway Jail",
+      "duration": "200",
+      "pictures": [
+        "https://www.djamradio.com/ressources/images/tracks/backgrounds/bg-58c39277a7cc9d8538964686f7464eeb_0.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/1/58c39277a7cc9d8538964686f7464eeb_1.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/3/58c39277a7cc9d8538964686f7464eeb_3.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/5/58c39277a7cc9d8538964686f7464eeb_5.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/7/58c39277a7cc9d8538964686f7464eeb_7.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/8/58c39277a7cc9d8538964686f7464eeb_8.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/9/58c39277a7cc9d8538964686f7464eeb_9.jpg"
+      ],
+      "spotify": {
+        "id": "spotify:track:2Dr5fxonbviYAWJqy87OF8",
+        "url": "https://open.spotify.com/track/2Dr5fxonbviYAWJqy87OF8"
+      },
+      "deezer": "",
+      "edito": "",
+      "trackpoints": 447,
+      "artistpoints": 0,
+      "votable": "1"
+    },
+    {
+      "id": "a6aaa463bae6231e31bd360f08dd3394",
+      "type": "general",
+      "artist": "Little Beaver",
+      "title": "Get Into The Party Life",
+      "duration": "246",
+      "pictures": [
+        "https://www.djamradio.com/ressources/images/tracks/backgrounds/bg-e369b4081d7dec3ad6edabfc99a9f24a_0.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/1/e369b4081d7dec3ad6edabfc99a9f24a_1.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/3/e369b4081d7dec3ad6edabfc99a9f24a_3.jpg"
+      ],
+      "spotify": {
+        "id": "spotify:track:3rZrK0m6FsVwNBS0SFpivX",
+        "url": "https://open.spotify.com/track/3rZrK0m6FsVwNBS0SFpivX"
+      },
+      "deezer": {
+        "id": "682770",
+        "url": "http://www.deezer.com/track/682770?app_id=126395"
+      },
+      "edito": "",
+      "trackpoints": 336,
+      "artistpoints": 0,
+      "votable": "1"
+    },
+    {
+      "id": "aad2f08728634d18f151c7c2cf6ec409",
+      "type": "general",
+      "artist": "DJ Vadim",
+      "title": "A Fly in the Hand (Feat. Alice Russell)",
+      "duration": "295",
+      "pictures": [
+        "https://www.djamradio.com/ressources/images/tracks/backgrounds/bg-d41d8cd98f00b204e9800998ecf8427e_0.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/1/d41d8cd98f00b204e9800998ecf8427e_1.jpg"
+      ],
+      "spotify": "",
+      "deezer": "",
+      "edito": "",
+      "trackpoints": -40,
+      "artistpoints": 0,
+      "votable": "1"
+    },
+    {
+      "id": "a463b5c12ec9aa36ddf6569b800135b4",
+      "type": "general",
+      "artist": "Beastie Boys",
+      "title": "Egg Man",
+      "duration": "177",
+      "trackpoints": 390,
+      "artistpoints": 0,
+      "votable": "1",
+      "edito": ""
+    },
+    {
+      "id": "a53464481d72caa8a813be2ebdc7a1c3",
+      "type": "general",
+      "artist": "Fiona Apple",
+      "title": "Limp",
+      "duration": "208",
+      "pictures": [
+        "https://www.djamradio.com/ressources/images/tracks/backgrounds/bg-30a636295627719896c6bd986c5089eb_0.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/3/30a636295627719896c6bd986c5089eb_3.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/4/30a636295627719896c6bd986c5089eb_4.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/8/30a636295627719896c6bd986c5089eb_8.jpg"
+      ],
+      "spotify": {
+        "id": "spotify:track:104YdibC7VQy78xAVmgRYr",
+        "url": "https://open.spotify.com/track/104YdibC7VQy78xAVmgRYr"
+      },
+      "deezer": {
+        "id": "15603254",
+        "url": "http://www.deezer.com/track/15603254?app_id=126395"
+      },
+      "edito": "",
+      "trackpoints": 85,
+      "artistpoints": 0,
+      "votable": "1"
+    },
+    {
+      "id": "3fcb8d7706decce00fa0b46d0977eb36",
+      "type": "general",
+      "artist": "ALB",
+      "title": "She Said",
+      "duration": "163",
+      "pictures": [
+        "https://www.djamradio.com/ressources/images/tracks/backgrounds/bg-e3252e1a8c33a30ae3fac99574706989_0.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/3/e3252e1a8c33a30ae3fac99574706989_3.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/4/e3252e1a8c33a30ae3fac99574706989_4.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/7/e3252e1a8c33a30ae3fac99574706989_7.jpg"
+      ],
+      "spotify": "",
+      "deezer": {
+        "id": "884756",
+        "url": "http://www.deezer.com/track/884756?app_id=126395"
+      },
+      "edito": "",
+      "trackpoints": 215,
+      "artistpoints": 0,
+      "votable": "1"
+    },
+    {
+      "id": "acbd9f955b34028fbfe6fc0dd93c6695",
+      "type": "general",
+      "artist": "Ann Sexton",
+      "title": "You've been gone too long",
+      "duration": "127",
+      "pictures": [
+        "https://www.djamradio.com/ressources/images/tracks/backgrounds/bg-add81219cdd082b536f02dcf321b594b_0.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/5/add81219cdd082b536f02dcf321b594b_5.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/6/add81219cdd082b536f02dcf321b594b_6.jpg",
+        "https://www.djamradio.com/ressources/images/tracks/9/add81219cdd082b536f02dcf321b594b_9.jpg"
+      ],
+      "spotify": "",
+      "deezer": {
+        "id": "1911883",
+        "url": "http://www.deezer.com/track/1911883?app_id=126395"
+      },
+      "edito": "",
+      "trackpoints": 100,
+      "artistpoints": 0,
+      "votable": "1"
+    }
+  ],
+  "nb_listeners": 1886
+}

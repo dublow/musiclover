@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
+  <ItemGroup />
   <ItemGroup>
-    <EmbeddedResource Remove="Documents\**" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Program.fs" />
+    <Compile Include="domain.fs" />
+    <Content Include="documents\jsons\djam.json" />
   </ItemGroup>
   <Import Project="..\..\.paket\Paket.Restore.targets" />
 </Project>
