@@ -3,5 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="adapter.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\core\core.fsproj" />
+  </ItemGroup>
   <Import Project="..\..\.paket\Paket.Restore.targets" />
 </Project>
